@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09ffdef-a5aa-422e-a37b-646f14c27db0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/main/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/index.html.twig" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/vendor/composer/" />
@@ -120,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="404" column="42" selection-start-line="404" selection-start-column="42" selection-end-line="404" selection-end-column="42" />
+            <state relative-caret-position="505">
+              <caret line="443" column="31" selection-start-line="443" selection-start-column="31" selection-end-line="443" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -345,12 +344,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610016925842</updated>
-      <workItem from="1610016927012" duration="3625000" />
+      <workItem from="1610016927012" duration="4957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3625000" />
+    <option name="totallyTimeSpent" value="4957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -362,7 +361,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -413,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="404" column="42" selection-start-line="404" selection-start-column="42" selection-end-line="404" selection-end-column="42" />
+        <state relative-caret-position="505">
+          <caret line="443" column="31" selection-start-line="443" selection-start-column="31" selection-end-line="443" selection-end-column="31" />
         </state>
       </provider>
     </entry>
