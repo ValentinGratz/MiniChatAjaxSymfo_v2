@@ -119,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="434" column="72" lean-forward="true" selection-start-line="434" selection-start-column="72" selection-end-line="434" selection-end-column="72" />
+            <state relative-caret-position="386">
+              <caret line="400" column="31" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -344,12 +344,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610016925842</updated>
-      <workItem from="1610016927012" duration="5093000" />
+      <workItem from="1610016927012" duration="5725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5093000" />
+    <option name="totallyTimeSpent" value="5725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -412,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="434" column="72" lean-forward="true" selection-start-line="434" selection-start-column="72" selection-end-line="434" selection-end-column="72" />
+        <state relative-caret-position="386">
+          <caret line="400" column="31" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="31" />
         </state>
       </provider>
     </entry>
