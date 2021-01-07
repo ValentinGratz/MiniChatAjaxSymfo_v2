@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e09ffdef-a5aa-422e-a37b-646f14c27db0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/main/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/index.html.twig" afterDir="false" />
-    </list>
+    <list default="true" id="e09ffdef-a5aa-422e-a37b-646f14c27db0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/vendor/composer/" />
     <ignored path="$PROJECT_DIR$/vendor/doctrine/annotations/" />
     <ignored path="$PROJECT_DIR$/vendor/doctrine/cache/" />
@@ -119,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="400" column="31" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="31" />
+            <state relative-caret-position="250">
+              <caret line="392" column="16" lean-forward="true" selection-start-line="392" selection-start-column="16" selection-end-line="407" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -344,12 +342,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610016925842</updated>
-      <workItem from="1610016927012" duration="5725000" />
+      <workItem from="1610016927012" duration="5836000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5725000" />
+    <option name="totallyTimeSpent" value="5836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -412,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="400" column="31" lean-forward="true" selection-start-line="400" selection-start-column="31" selection-end-line="400" selection-end-column="31" />
+        <state relative-caret-position="250">
+          <caret line="392" column="16" lean-forward="true" selection-start-line="392" selection-start-column="16" selection-end-line="407" selection-end-column="14" />
         </state>
       </provider>
     </entry>
