@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3aac288af2c35636f87a08fd58ba0b01",
+    "content-hash": "d042a55394a72b2afe779fb0e27961df",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -5257,26 +5257,23 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.28.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "6caa57379c4aec19c0a12a38b59b26487dcfe4b5"
+                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/6caa57379c4aec19c0a12a38b59b26487dcfe4b5",
-                "reference": "6caa57379c4aec19c0a12a38b59b26487dcfe4b5",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
+                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "type": "library",
             "extra": {
-                "branch-alias": {
-                    "dev-main": "1.28-dev"
-                },
                 "thanks": {
                     "name": "symfony/polyfill",
                     "url": "https://github.com/symfony/polyfill"
@@ -5320,7 +5317,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.28.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -5336,7 +5333,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-01-26T09:26:14+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php81",
@@ -5419,16 +5416,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v5.2.12",
+            "version": "v5.4.46",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "d16634ee55b895bd85ec714dadc58e4428ecf030"
+                "reference": "01906871cb9b5e3cf872863b91aba4ec9767daf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/d16634ee55b895bd85ec714dadc58e4428ecf030",
-                "reference": "d16634ee55b895bd85ec714dadc58e4428ecf030",
+                "url": "https://api.github.com/repos/symfony/process/zipball/01906871cb9b5e3cf872863b91aba4ec9767daf4",
+                "reference": "01906871cb9b5e3cf872863b91aba4ec9767daf4",
                 "shasum": ""
             },
             "require": {
@@ -5461,7 +5458,7 @@
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/process/tree/v5.2.12"
+                "source": "https://github.com/symfony/process/tree/v5.4.46"
             },
             "funding": [
                 {
@@ -5477,7 +5474,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-07-23T15:54:19+00:00"
+            "time": "2024-11-06T09:18:28+00:00"
         },
         {
             "name": "symfony/property-access",
